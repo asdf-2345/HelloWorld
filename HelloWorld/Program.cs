@@ -15,7 +15,7 @@ namespace HelloWorld
 				Console.Write(a[b]);
 				Thread.Sleep(waitingTime);
 			}
-			Console.Write("\n");
+			Console.WriteLine();
 		}
 	}
 }
